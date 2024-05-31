@@ -14,3 +14,4 @@ za pomocą wybranej biblioteki.
 
 - Dodać opcję kasowania wszelkich zbędnych informacji o pliku, umożliwiający anonimizację pliku
 bez ingerencji w obraz/dźwięk.
+![myplot](https://github.com/p4p1x/png-analyzer/assets/104534787/311a1707-6e11-4521-8a01-c53959f6ac70)
